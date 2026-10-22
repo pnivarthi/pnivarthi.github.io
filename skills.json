@@ -1,9 +1,0 @@
-{
-  "Programming & Scripting": ["Python", "SQL", "Golang", "C", "HTML", "CSS", "Bash"],
-  "Cybersecurity & SOC": ["SOC Operations", "Incident Response", "Threat Intelligence", "MITRE ATT&CK", "Vulnerability Analysis", "Detection Engineering", "Security Automation", "Attack Lifecycle", "Network Hardening"],
-  "SIEM & Security Tools": ["GreyMatter", "Splunk", "IBM QRadar", "LogRhythm", "Exabeam", "Sumo Logic", "Microsoft Sentinel", "Wireshark", "Nmap", "Burp Suite"],
-  "AI for Security": ["LLM Agents", "MCP Integrations", "LiteLLM", "Opencode", "LangChain", "ReAct Agents", "RAG", "AI Evaluation Frameworks", "Agent Orchestration"],
-  "Data & Analysis": ["Pandas", "Matplotlib", "Excel", "MATLAB", "Lucidchart"],
-  "Systems & Virtualization": ["Linux/Unix", "Windows", "macOS", "Kali Linux", "Proxmox VE", "VMware Workstation"],
-  "Developer Tools": ["Git", "GitHub", "VS Code", "Jupyter Notebook", "Anaconda"]
-}
